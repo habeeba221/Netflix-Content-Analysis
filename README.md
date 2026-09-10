@@ -1,11 +1,11 @@
 # Netflix-Content-Analysis
 
-## Project Overview
+## 📌Project Overview
 This project analyzes Netflix Movies and TV Shows to understand the content available on Netflix.
 
 The project includes data cleaning, SQL analysis, and Power BI visualization.
 
-## Objective
+## 🎯Objective
 The main objective is to analyze Netflix content and find useful insights about:
 - Movies and TV Shows
 - Release years
@@ -14,10 +14,10 @@ The main objective is to analyze Netflix content and find useful insights about:
 - Ratings
 - Directors
 
-## Data Cleaning
+## 🧹Data Cleaning
 Cleaned and transformed the data using Power Query.
 
-## SQL Analysis
+## 🗄️SQL Analysis
 The cleaned data was imported into MySQL.
 
 SQL queries were used to analyze:
@@ -29,7 +29,7 @@ SQL queries were used to analyze:
 - Top 5 ratings
 - Top 10 directors
   
-## Power BI
+## 📊Power BI
 Power BI was used for data visualization and reporting.
 
 The report includes:
@@ -42,7 +42,7 @@ The report includes:
 - Top 10 directors
 - Interactive slicers
 
-## Key Insights
+## 💡Key Insights
 - Total Content: 8,784
 - Movies: 6,112 (69.58%)
 - TV Shows: 2,672 (30.42%)
@@ -50,5 +50,5 @@ The report includes:
 - India is the second-highest country contribution
 - TV-MA is the most common rating
 
-## Tools & Technologies
+## 🛠️Tools & Technologies
 Power Query | MySQL | SQL | Power BI | Data Cleaning | Data Analysis | Data Visualization
